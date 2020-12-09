@@ -1,0 +1,23 @@
+{
+  "name": "swift-restful-todo-list-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorfingerjonas/swift-restful-todo-list-server.git"
+  },
+  "keywords": [],
+  "author": "Jonas Dorfinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorfingerjonas/swift-restful-todo-list-server/issues"
+  },
+  "homepage": "https://github.com/dorfingerjonas/swift-restful-todo-list-server#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  },
+  "description": ""
+}
